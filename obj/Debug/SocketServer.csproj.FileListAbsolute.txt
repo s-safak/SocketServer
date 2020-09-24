@@ -1,0 +1,9 @@
+H:\_Source\_c#\Server\obj\Debug\SocketServer.exe
+H:\_Source\_c#\Server\obj\Debug\SocketServer.pdb
+F:\_Source\_c#\Server\obj\Debug\SocketServer.exe
+F:\_Source\_c#\Server\obj\Debug\SocketServer.pdb
+F:\_Source\_c#\Server\bin\Debug\SocketServer.exe
+F:\_Source\_c#\Server\bin\Debug\SocketServer.pdb
+F:\_Source\_c#\Server\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+F:\_Source\_c#\Server\obj\Debug\SocketServer.Form1.resources
+F:\_Source\_c#\Server\obj\Debug\SocketServer.csproj.GenerateResource.Cache
